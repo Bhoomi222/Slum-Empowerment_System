@@ -49,7 +49,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code</dt>
 <dd>  24ECAC203 </dd>
 <dt>Name</dt>
-<dd>Bhoomi</dd>
+<dd>Bhoomi Prasad</dd>
 <dt>SRN</dt>
 <dd>02fe23bci041</dd>
 <dt>Course Instructor</dt>
