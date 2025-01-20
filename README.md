@@ -36,7 +36,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 
 ## 🚀 Skills
-- C++, Python, JavaScript
+- C++, Python,C
 - Data Structures and Algorithms
 
 
