@@ -34,9 +34,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 4. **Health and Lifestyle Benefits**: Promotes cleaner air, quieter surroundings, and active lifestyles through non-motorized transport.
 5. **Global Benchmark for Sustainability**: Establishes Matheran as a leading example of eco-conscious urban planning and tourism.
 
-## 💻 Code (C++)
-[get the project code from here!](https://github.com/Bhoomi222/Slum-Empowerment_System/blob/main/slum%20empowerment.cpp)
-
 
 ## 🚀 Skills
 - C++, Python, JavaScript
