@@ -22,7 +22,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 **Technical Stack:**
 
-- **Languages**: C++, Java
+- **Languages**: C++
 - **Algorithms**: Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
 - **Tools**: Graphs, DAA Optimization Techniques
 
